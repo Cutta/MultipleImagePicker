@@ -5,7 +5,9 @@ Custom Gallery for Single and Multiple image pick
 
 Usage
 ====
-Firstly set your AndroidManifest.xml
+This project use Universal Image Loader. Firstly your project must be include <a href = "https://github.com/nostra13/Android-Universal-Image-Loader">Universal Image Loader Lib</a>
+
+After that set your AndroidManifest.xml
 
 <div class="highlight highlight-xml"><pre>
  &lt;<span class="pl-ent">activity</span> <span class="pl-e">android</span><span class="pl-e">:</span><span class="pl-e">name</span>=<span class="pl-s1"><span class="pl-pds">"</span>com.cunoraz.pickImages.CustomGalleryActivity<span class="pl-pds">"</span></span> &gt;
