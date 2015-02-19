@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\cuneyt\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\cuneyt\Desktop\Libraries\MultipleImagePick\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-8b6c782333457c7a3b896e13a98f2931b84a5b54.jar" />
+    </item>
+    <item
+        jar="C:\Users\cuneyt\Desktop\Libraries\MultipleImagePick\app\libs\universal-image-loader-1.9.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f667a2f4f27542fe11a6781f5f7ac572d27afcec">
+        <dex dex="C:\Users\cuneyt\Desktop\Libraries\MultipleImagePick\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.0-45cad102dc32fe8f6f68336301a7fe05b285371c.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/cuneyt/Desktop/Libraries/MultipleImagePick/app/src/main/res/values-xhdpi/dimens.xml -->
+    <eat-comment/>
+    <dimen name="actionBar_height">55dp</dimen>
+    <dimen name="photo_height">130dp</dimen>
+    <dimen name="photo_width">100dp</dimen>
+</resources>

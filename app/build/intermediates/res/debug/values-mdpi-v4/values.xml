@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/cuneyt/Desktop/Libraries/MultipleImagePick/app/src/main/res/values-mdpi/colors.xml -->
+    <eat-comment/>
+    <color name="bg_light_blue">#EBF5FF</color>
+    <color name="dialog_bg">#f0f0f0</color>
+    <color name="gray">#dddddd</color>
+    <color name="holo_blue_bright">#ff00ddff</color>
+    <color name="light_black">#CC000000</color>
+    <color name="light_black_">#33000000</color>
+    <color name="light_black_AA">#AA000000</color>
+    <color name="light_gray">#AA808080</color>
+    <color name="light_white_">#33FFFFFF</color>
+    <color name="menu_bg">#101F2D</color>
+    <color name="tab_bg">#142029</color>
+    <!-- From: file:/C:/Users/cuneyt/Desktop/Libraries/MultipleImagePick/app/src/main/res/values-mdpi/dimen.xml -->
+    <eat-comment/>
+    <dimen name="photo_height">100dp</dimen>
+    <dimen name="photo_width">100dp</dimen>
+    <!-- From: file:/C:/Users/cuneyt/Desktop/Libraries/MultipleImagePick/app/src/main/res/values-mdpi/colors.xml -->
+    <eat-comment/>
+    <drawable name="light_black_">#33000000</drawable>
+    <!-- From: file:/C:/Users/cuneyt/Desktop/Libraries/MultipleImagePick/app/src/main/res/values-mdpi/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Cunoraz Gallery</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_pick">Single Pick From Gallery</string>
+    <string name="btn_pick_mul"> Multiple Pick From Gallery</string>
+    <!-- From: file:/C:/Users/cuneyt/Desktop/Libraries/MultipleImagePick/app/src/main/res/values-mdpi/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light"/>
+    <style name="AppTheme" parent="AppBaseTheme"/>
+    <style name="btn">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="title_bar">
+        <item name="android:textColor">#d9f3ff</item>
+        <item name="android:textSize">22sp</item>
+    </style>
+</resources>
