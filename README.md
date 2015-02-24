@@ -1,8 +1,7 @@
-# MultipleImagePicker
+# MultipleImagePicker for Android
 Custom Gallery for Single and Multiple image pick
 
-
-
+<a href = "https://android-arsenal.com/details/1/1573"><img src="https://img.shields.io/badge/Android%20Arsenal-MultipleImagePicker-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/1573"></img>  </a>
 Usage
 ====
 This project use Universal Image Loader. Firstly your project must be include <a href = "https://github.com/nostra13/Android-Universal-Image-Loader">Universal Image Loader Lib</a>
@@ -19,14 +18,13 @@ After that set your AndroidManifest.xml
             &lt;/<span class="pl-ent">intent-filter</span>&gt;
  &lt;/<span class="pl-ent">activity</span>&gt;</pre></div>
  
-
-        //Calling galery for sinle image
-        Intent i = new Intent(Action.ACTION_PICK);
-				startActivityForResult(i, 100);
+	//Calling galery for multiple image
+	Intent i = new Intent(Action.ACTION_MULTIPLE_PICK);
+	startActivityForResult(i, 100);
 				
         //Calling galery for multiple image
-				Intent i = new Intent(Action.ACTION_MULTIPLE_PICK);
-				startActivityForResult(i, 200);
+	Intent i = new Intent(Action.ACTION_MULTIPLE_PICK);
+	startActivityForResult(i, 200);
 
  Overrie your activity's onActivityResult method like this
  
@@ -60,4 +58,4 @@ After that set your AndroidManifest.xml
 	}
 SS
 ====
- <img src = "http://i.imgur.com/AJR6uD8.png"</img>
+ <img src = "http://i.imgur.com/OMkJLDN.jpg"</img>
