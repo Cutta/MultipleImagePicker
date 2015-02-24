@@ -7,6 +7,8 @@
     <uses-sdk
         android:minSdkVersion="7"
         android:targetSdkVersion="17" />
+
+
     <!-- This permission for get image from memory -->
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
@@ -26,7 +28,7 @@
         </activity>
         <activity android:name="com.cunoraz.pickImages.CustomGalleryActivity" >
             <intent-filter>
-                <!-- For recognation our request type-->
+               
                 <action android:name="cunoraz.ACTION_PICK" />
                 <action android:name="cunoraz.ACTION_MULTIPLE_PICK" />
 
